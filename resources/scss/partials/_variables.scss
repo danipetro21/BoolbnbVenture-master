@@ -1,0 +1,33 @@
+/*******************
+    Primary Colors 
+********************/
+$bg-color: #ecf0f3;
+$primary: #292d32;
+$primary_pink: #ff385c;
+$primary_light: #fafcff;
+$primary_purple: #460479;
+
+// Navbar
+
+$font-size-base: 0.925rem;
+$base-color: #66f;
+$text-dark: #3c4250;
+$border-color: #eceef3;
+$navbar-body-color: #fff;
+$navbar-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+$navbar-padding-y: 1rem;
+$navbar-padding-x: 1.15rem;
+
+$navbar-link-hover: $base-color;
+$navbar-link-padding-y: 0.5rem;
+$navbar-link-padding-x: 1rem;
+
+$navbar-dropdown-padding-y: 0.5rem;
+$navbar-dropdown-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+$navbar-dropdown-radius: 0.75rem;
+
+$navbar-dropdown-item-padding-y: 0.25rem;
+$navbar-dropdown-item-padding-x: 1rem;
+
+$navbar-dropdown-separator-margin-y: 9px;
+$navbar-dropdown-separator-color: $border-color;
